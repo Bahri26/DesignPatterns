@@ -6,3 +6,9 @@ Yazılım tasarımlarını kullanarak bizler kod okunurluğunu arttırmak, güve
 ![alt text](http://is.gd/ri7UfN)
 
 <p>Abstarct product objelerinin oluşturulmasında gereken operasyonlar için bir ara yüz bildirir.</p>
+
+<h2>Adapter</h2>
+
+![alt text](http://t.ly/mKrD)
+
+<p>Var olan bir sınıfların kodlarını değiştirmeden ara yüzünün başka bir sınıfın ara yüzüne kullanımının sağlanmasıdır.</p>
